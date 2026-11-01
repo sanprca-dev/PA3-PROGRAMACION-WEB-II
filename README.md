@@ -17,7 +17,7 @@ Se conserva `backend/` de [PA2, commit 4e8d3b2](https://github.com/sanprca-dev/P
 
 | Integrante | Rol | Entrega | Estado |
 |---|---|---|---|
-| Santiago Prado Carrasco | Desarrollador | Base React/Vite, listado, búsqueda, useEffect y Context compartido | Pendiente de implementar |
+| Santiago Prado Carrasco | Desarrollador | Base React/Vite, listado, búsqueda, useEffect y Context compartido | Implementado |
 | Paola Gutiérrez Afata | Desarrolladora | Formulario, detalle, actualización de estado y navegación completa | Pendiente de implementar |
 | Mariano Valderrama Shuña | Desarrollador | Favoritos con Redux, contador compartido y comparación con Context | Pendiente de implementar |
 
