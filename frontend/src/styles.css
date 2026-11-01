@@ -1,0 +1,9 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #f3f5f7; color: #172b40; }
+nav { display: flex; flex-wrap: wrap; gap: 18px; padding: 20px; background: white; }
+nav a.active { font-weight: bold; }
+main { max-width: 900px; margin: 28px auto; padding: 0 20px; }
+article { background: white; padding: 18px; margin: 14px 0; border: 1px solid #ccd4dc; border-radius: 8px; }
+label { display: block; margin-top: 12px; }
+input, select, textarea, button { font: inherit; padding: 8px; max-width: 100%; box-sizing: border-box; }
+button { cursor: pointer; margin: 8px 8px 8px 0; }
+a { color: #174f91; }
