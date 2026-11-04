@@ -9,7 +9,7 @@ SPA en React para consultar, registrar y organizar solicitudes académicas con c
 
 ## Estado actual y participación
 
-La base de Santiago y los favoritos de Mariano están integrados en main. La ampliación de formulario, detalle y cambio de estado se completó en la rama `santiago-completar-formulario-detalle`, después de actualizar con el merge de Mariano. La aplicación integrada compila y pasó las comprobaciones locales descritas abajo. El PR de esta ampliación se enlaza al publicarlo.
+La base de Santiago y los favoritos de Mariano están integrados en main. La ampliación de formulario, detalle y cambio de estado se completó en la rama `santiago-completar-formulario-detalle`, después de actualizar con el merge de Mariano. La aplicación integrada compila y pasó las comprobaciones locales descritas abajo. Revisión de la ampliación: [PR #3](https://github.com/sanprca-dev/PA3-PROGRAMACION-WEB-II/pull/3).
 
 | Integrante | Participación registrada | Seguimiento |
 |---|---|---|
