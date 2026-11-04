@@ -2,6 +2,7 @@
 
 **Curso:** Programación Web II · Código 30690 · NRC 4060
 **Repositorio:** [PA3-PROGRAMACION-WEB-II](https://github.com/sanprca-dev/PA3-PROGRAMACION-WEB-II)
+**Video Youtube:** https://www.youtube.com/watch?v=H3W8qkh2JUk
 
 ## Descripción y objetivo
 
@@ -93,7 +94,7 @@ La aplicación reúne las cuatro áreas técnicas de PA3: componentes y Hooks, n
 
 ## Video de exposición
 
-**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+**Video público de YouTube:** [(https://www.youtube.com/watch?v=H3W8qkh2JUk)]
 
 Santiago informa que su video está grabado; el enlace público todavía no está disponible. No se dispone de video ni participación de Paola al cierre de esta actualización. La publicación y revisión del video quedan pendientes; no se presenta ese requisito como cumplido.
 
