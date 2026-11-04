@@ -19,7 +19,8 @@ Se conserva `backend/` de [PA2, commit 4e8d3b2](https://github.com/sanprca-dev/P
 |---|---|---|---|
 | Santiago Prado Carrasco | Desarrollador | Base React/Vite, listado, búsqueda, useEffect y Context compartido | Implementado |
 | Paola Gutiérrez Afata | Desarrolladora | Formulario, detalle, actualización de estado y navegación completa | Pendiente de implementar |
-| Mariano Valderrama Shuña | Desarrollador | Favoritos con Redux, contador compartido y comparación con Context | Pendiente de implementar |
+| Mariano Valderrama Shuña | Desarrollador | Favoritos con Redux, contador compartido y comparación con Context | Implementado · [PR #2](https://github.com/sanprca-dev/PA3-PROGRAMACION-WEB-II/pull/2) · [Evidencias](evidencias/mariano) · [Comparación](docs/COMPARACION-CONTEXT-REDUX.md) |
+
 
 Los enlaces a PR y capturas se añadirán después de los aportes reales. La explicación detallada del código se realizará en el video; cada integrante prepara sus pruebas y conoce el flujo completo.
 
